@@ -17,7 +17,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="container max-w-[1400px] m-auto px-4">
         <NavbarHeader />
-        {children}
+          W{children}
         <Footer />
       </body>
     </html>
