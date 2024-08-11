@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <main className="bg-black text-white container max-w-[1400px] px-4 min-h-screen">
+    <main className="bg-black text-white min-h-screen">
       <h1>Home pages</h1>
     </main>
   );

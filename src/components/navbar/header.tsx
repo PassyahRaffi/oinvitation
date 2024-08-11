@@ -16,8 +16,8 @@ export default function Header() {
     },
   ];
   return (
-    <nav className="container max-w-[1400px]">
-      <div className="flex justify-between gap-10 px-4">
+    <nav>
+      <div className="flex justify-between gap-10">
         <div>
           <Link href={"/"}>OINVITATION</Link>
         </div>
